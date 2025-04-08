@@ -3,7 +3,7 @@
 
 Olá sou o Luiz Eduardo
 
-Neste Projeto vamos colocar em pratica o que foi aprendido em aula sobre criar:
+Neste Projeto vamos colocar em pratica o que foi aprendido em aula sobre criar script executavel:
 
 * Diretórios,
 * Usuários,
